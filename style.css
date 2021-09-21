@@ -55,6 +55,8 @@
 
 .footer{
     background-color:White;
+    padding: 20px;
+    margin-top: 20px;
 }
 .footer p{
     text-align: center;
