@@ -6,3 +6,4 @@ Steps to follow:
 ->Select Date
 ->Click on 'Check'.
 🥳 It will Show Your Is your Birthday is Pallindrome or Not!!
+Live project Link:-https://is-your-birthday-a-pallindrome.netlify.app/
